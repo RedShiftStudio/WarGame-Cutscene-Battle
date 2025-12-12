@@ -15,7 +15,17 @@
 - ✅ **Пылевые шлейфы и огонь** — MantaFlow (smoke + fire) + volumetric lighting  
 - ✅ **Цветокоррекция под «военную хронику»** — ACES + desaturation + vignette  
 - ✅ **Real-time preview оптимизация** — Proxy mesh для симуляций, Viewport Denoising
+<div align="center">
 
+<img width="800" src="./pic01.png"/>
+<img width="800" src="./pic02.png"/>
+<img width="800" src="./pic03.png"/>
+<img width="800" src="./pic04.png"/>
+<img width="800" src="./pic05.png"/>
+<img width="800" src="./pic06.png"/>
+<h1 align="center">Скриншоты из анимации в режимах Solid/Material preview/Rendered</h1>
+
+</div>
 ---
 
 ## 💬 Вдохновение

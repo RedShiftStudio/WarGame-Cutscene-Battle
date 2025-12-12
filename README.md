@@ -43,8 +43,3 @@
 > — `falling-souls`, 2025
 
 ---
-
-<a href="https://github.com/your-username/falling-sky/stargazers">
-  <img src="https://img.shields.io/github/stars/your-username/falling-sky?style=social" alt="Star this project!">
-</a>  
-🛠️ Вопросы? PRs? Хочешь помочь с саунд-дизайном? — **Welcome**.

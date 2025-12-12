@@ -1,4 +1,7 @@
 **Falling-souls**
+[![Blender 4.2+](https://img.shields.io/badge/Blender-4.2%2B-FF7526?logo=blender)](https://www.blender.org)  
+[![EEVEE Render](https://img.shields.io/badge/Render-EEVEE-%23EA4335)](https://docs.blender.org/manual/en/latest/render/eevee/index.html)  
+[![Made with ❤️ in Russia](https://img.shields.io/badge/Made_with-❤️_in_Russia-ff4b4b)]()
 ---
 
 ## ▶️ Как запустить / просмотреть
